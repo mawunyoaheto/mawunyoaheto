@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://mawunyoaheto.io)
+[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://mawunyoaheto.io)
 
 <h1 align="center">Hi 👋, I'm Raymond Aheto</h1>
 <h3 align="center">A passionate full-stack developer</h3>
