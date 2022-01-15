@@ -1,7 +1,7 @@
 [![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://github.com/mawunyoaheto)
 
 <h1 align="center">Hi 👋, I'm Raymond Aheto</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A full-stack developer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400">
 
 
